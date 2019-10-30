@@ -1,0 +1,4 @@
+/media/felhberg/D_win/WSBC/hackathon/YOLOv3-Training-Snowman-Detector/JPEGImages/hardhat1.jpg
+/media/felhberg/D_win/WSBC/hackathon/YOLOv3-Training-Snowman-Detector/JPEGImages/hardhat2.jpg
+/media/felhberg/D_win/WSBC/hackathon/YOLOv3-Training-Snowman-Detector/JPEGImages/hardhat3.jpg
+/media/felhberg/D_win/WSBC/hackathon/YOLOv3-Training-Snowman-Detector/JPEGImages/hardhat4.jpg

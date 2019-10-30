@@ -1,0 +1,5 @@
+classes = 1
+train  = /media/felhberg/D_win/WSBC/hackathon/YOLOv3-Training-Snowman-Detector/snowman_train.txt
+valid  = /media/felhberg/D_win/WSBC/hackathon/YOLOv3-Training-Snowman-Detector/snowman_test.txt
+names = /media/felhberg/D_win/WSBC/hackathon/YOLOv3-Training-Snowman-Detector/classes.names
+backup = /media/felhberg/D_win/WSBC/hackathon/YOLOv3-Training-Snowman-Detector/weights/
